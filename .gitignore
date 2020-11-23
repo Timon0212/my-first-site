@@ -1,4 +1,4 @@
-.cache/g
+.cache/
 .gitignore
 .idea/
 dist/
